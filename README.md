@@ -22,6 +22,16 @@ WORKING:=
 ![clone](https://github.com/rohithvoddam0606/CodeAlpha_StudentGradeTracker/blob/main/Screenshots/clone%20repo.png?raw=true)
 
 2.Navigate to the Project
-![navigate]()
+![navigate](https://github.com/rohithvoddam0606/CodeAlpha_StudentGradeTracker/blob/main/Screenshots/sample%20output.png?raw=true)
 
+3.Compile the Program
+![compile](https://github.com/rohithvoddam0606/CodeAlpha_StudentGradeTracker/blob/main/Screenshots/compile%20the%20program.png?raw=true)
 
+4.Run the program
+![run](https://github.com/rohithvoddam0606/CodeAlpha_StudentGradeTracker/blob/main/Screenshots/run%20the%20program.png?raw=true)
+
+5.Sample Input
+![input](https://github.com/rohithvoddam0606/CodeAlpha_StudentGradeTracker/blob/main/Screenshots/sample%20input.png?raw=true)
+
+6.Sample Output
+![output](https://github.com/rohithvoddam0606/CodeAlpha_StudentGradeTracker/blob/main/Screenshots/sample%20output.png?raw=true)
