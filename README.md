@@ -19,6 +19,6 @@ This program allows you to input student names and scores, then calculates:
 
 WORKING:=
 1.Clone the Repository
-![clone repo](Screenshots/clonerepo.png)
+![clone repo](Screenshots/clone repo.png)
 
 
