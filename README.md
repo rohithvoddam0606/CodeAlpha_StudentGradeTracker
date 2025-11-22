@@ -17,4 +17,8 @@ This program allows you to input student names and scores, then calculates:
 - Console-based input/output
 - ArrayList for dynamic data storage
 
+WORKING:=
+1.Clone the Repository
+![clone repo](Screenshots/clonerepo.png)
+
 
