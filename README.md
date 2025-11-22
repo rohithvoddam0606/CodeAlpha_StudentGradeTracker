@@ -19,6 +19,9 @@ This program allows you to input student names and scores, then calculates:
 
 WORKING:=
 1.Clone the Repository
-![clone repo](Screenshots/clone repo.png)
+![clone](https://github.com/rohithvoddam0606/CodeAlpha_StudentGradeTracker/blob/main/Screenshots/clone%20repo.png?raw=true)
+
+2.Navigate to the Project
+![navigate]()
 
 
